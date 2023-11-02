@@ -1,0 +1,115 @@
+a{
+    text-decoration: none; color: black; 
+    
+}
+footer {
+	width: 100%;
+  height: 140px;
+  background-color: rgb(69, 41, 4);
+  margin: 0 auto;
+  position: absolute;
+  left:0;
+  margin-top: 70px;
+}
+.copyright{
+ color: aliceblue;
+ margin-top: 50px;
+ margin-left: 20px;
+}
+.copyright1{
+  color: aliceblue;
+  margin-top: -35px;
+ margin-left: 380px;
+}
+.copyright2{
+  color: aliceblue;
+  margin-top: -35px;
+ margin-left: 750px;
+}
+.copyright3{
+  color: aliceblue;
+ margin-top: -33px;
+ margin-left: 1200px;
+}
+.prokrutka {
+    height: 200px; /* высота нашего блока */
+    width: 100%; /* ширина нашего блока */
+    background:rgb(253, 241, 221); /* цвет фона, белый */
+    border: 1px solid wheat; /* размер и цвет границы блока */
+    overflow-y: scroll; /* прокрутка по вертикали */
+    
+    }
+h5{
+    margin-left: 200px;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.search{
+    margin-top: -50px;
+    margin-left: 700px;
+    width: 1000px;
+    
+}
+input::-webkit-input-placeholder {
+    color: black; 
+    font-style: italic; 
+    background: white;
+  }
+
+  h6{
+    margin-top: -70px;
+    margin-left: 1200px;
+    font-size: large;
+  }
+  .stroka{
+    margin-top: -35px;
+    margin-left: 1200px;
+    font-size: large;
+  }
+  .stroka1{
+    margin-top: -70px;
+    margin-left: 400px;
+    font-size: 25px;
+  }
+  header{
+    background:  linear-gradient(to top, rgb(245, 226, 83), 20%, rgb(251, 241, 48));
+    width: 100%;
+    height: 70px;
+    font-size: 25px;
+    text-align: center;
+    display: flex;
+    font-weight: bolder;
+   
+}
+.knopka{
+  margin-top: 80px;
+  margin-left: 200px;
+}
+.map{
+  margin-left: 900px;
+  margin-top: -390px;
+  
+}
+.opisanie{
+  font-size: 25px;
+  font-weight: 400;
+}
+body {
+  background:rgb(253, 241, 221);
+  margin: 0;
+}
+
+.info{
+  padding: 20px;
+}
+h3{
+  padding: 20px;
+}
+
+#text{
+  padding: 30px;
+}
+#fot{
+  margin-top: 300px;
+}
